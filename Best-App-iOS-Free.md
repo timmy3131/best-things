@@ -13,46 +13,95 @@
 >注2：行末的 **#** 为相关 测评文章 或 同类横向对比文章 链接，请自行参阅。  
 >注3：本项目 **不接受** 任何形式的捐赠、资助或广告。  
 >注4：由于个人色彩过重，暂不推荐游戏类 App。
-
+>注5：排名[Top Grossing Apps and Download Statistics iOS Store | App Annie](https://www.appannie.com/apps/ios/top/?device=iphone)
+[iOS App搜索指数热度查询_APPYING](http://tools.appying.com/apphot.html)
 ## 1. 免费软件篇 (iOS)
 
 `iOS`平台下有众多优秀的软件工具。  
 下面为免费软件的推荐列表，供大家参考。
 
-#### 1.1 工具类
+#### 1.1 体育类
+[App Annie App Store Stats |](https://www.appannie.com/apps/ios/top-chart/china/education/?device=iphone&date=2017-02-27&feed=All&rank_sorting_type=rank&page_number=0&page_size=100)
 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
 ★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
 
-## 2. 免费 Cydia 插件篇
-
+#### 1.2 健康健美 
 评分   | 名称  | 功能简述 | 单价 | 测评
 ----- | ----- | ------ | ----- | -----
-★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 Cydia 免费 App  |  | 
-## 使用建议
+★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
 
-* `越狱`**不等于**`盗版(破解)`，越狱意味着更多的**自由**，同时也要承担更大的**风险**
-* 建议尽量少用盗版 `Cydia`源，`BigBoss源`通常就够用了
-* 附：[Cydia 付费插件购买教程](http://www.jbguide.me/2012/03/28/buy-tweaks-via-yinlian/)
+#### 1.3 美食佳饮 
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
+
+#### 1.4 生活类
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
+
+#### 1.5 摄影与录像 
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
+
+#### 1.6 效率类
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
+
+
+#### 1.8 参考工具阅读类 
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
+
+#### 1.9 购物 
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
+
+#### 1.10 旅行 
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
+
+#### 1.11 社交
+评分   | 名称  | 功能简述 | 单价 | 测评
+----- | ----- | ------ | ----- | -----
+★★★★★  | 添加中 ([评级说明](#%E5%85%B3%E4%BA%8E)) | 欢迎推荐 iOS 免费 App  |  | 
+
+
+
+
 
 ## iOS App 优惠&促销信息媒体
 
 * [AppShopper](http://appshopper.com/)
 * [AppZapp](http://appzapp.us/)
 * [AppAdvice](http://appadvice.com/appnn)
+* [AndroidTapp](http://www.androidtapp.com)
 * [148Apps](http://www.148apps.com/)
 * [AppSpy](http://www.appspy.com/)
-* [hzlzh/Best-App](https://github.com/hzlzh/Best-App)
 * [AppDown for iOS](http://www.ipadown.com/ios/)
 * [爱应用](http://www.iapps.im/)
 * [V2EX MacOS](http://v2ex.com/go/macosx)
 * [iNews](http://inews.io/)
-
-## Cydia 相关信息
-
-* [越狱指南](http://www.jbguide.me/about-us/)
-* [Cydia 插件视频介绍](http://www.youtube.com/user/myjailbreakmovies)
+* [Beautiful Pixels](http://www.beautifulpixels.com/)
+* [Ultralinx](http://www.theultralinx.com)
+* [ProductHunt](http://www.producthunt.com)
+* [MacStories](http://www.macstories.net)
+* [The Sweet Setup](http://thesweetsetup.com)
+* [电脑玩物](http://www.playpcesor.com)
+* [酷安网](http://www.coolapk.com)
+* [小众软件](http://www.appinn.com)
+* [same 「研究 app ( iOS )」频道](https://itunes.apple.com/us/app/same/id531761928?mt=8)
+* [Playboard](http://play.google.com/store/apps/details?id=playboard.android)
+* [Drippler](http://play.google.com/store/apps/details?id=com.drippler.android.updates)
+* [万宝乐](http://play.google.com/store/apps/details?id=goofy2.swably.zh)
+* [少数派](http://www.sspai.com)
 
 ## 关于
 
